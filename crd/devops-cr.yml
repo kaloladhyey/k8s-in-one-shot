@@ -1,0 +1,9 @@
+kind: DevOpsBatch
+apiVersion: trainwithdhyey.com/v1
+metadata:
+  name: kd-batch-1
+spec:
+  name: DevOps-zero To Hero kd batch 1
+  duration: 3 months from 25th january 2027
+  plateform: trainwithdhyey.com
+  mode: Live as always
